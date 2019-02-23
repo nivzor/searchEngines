@@ -7,10 +7,20 @@ it then lets you quickly search either search engine easily through the terminal
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install searchMe.py dependencies.
 
 ```bash
-pip install foobar
+pip install -r requirements.txt
 ```
+or
+
+```bash
+pip3 install -r requirements.txt
+```
+*I'm using python 3 there. 
 
 Use nod epackage madnager [npm](https://www.npmjs.com/) to install searchEngines app dependencies.
+
+```bash
+npm install
+```
 
 ## Usage
 
