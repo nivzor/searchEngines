@@ -28,6 +28,11 @@ npm install
 node index.js
 ```
 
+## TODO:
+ - Want to make an alias so this can be used from anywhere while on terminal
+ - Validating bad search engines 
+ - tests
+
 ## Side Note
 This is a very early version of work in progress, if you feel like you're having some cool ideas how to make this be better feel free to jump in.
 
