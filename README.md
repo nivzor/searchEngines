@@ -1,2 +1,25 @@
 # searchEngines
-playing around with searching based on the existing search engines in side chrome 
+Foobar is a small terminal application using python and nodejs to fetch search engines from chrome browser
+it then lets you quickly search either search engine easily through the terminal.
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install searchMe.py dependencies.
+
+```bash
+pip install foobar
+```
+
+Use nod epackage madnager [npm](https://www.npmjs.com/) to install searchEngines app dependencies.
+
+## Usage
+
+```bash
+node index.js
+```
+
+## Side Note
+This is a very early version of work in progress, if you feel like you're having some cool ideas how to make this be better feel free to jump in.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
