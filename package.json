@@ -1,0 +1,21 @@
+{
+  "name": "noBetterName",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "fuzzy": "^0.1.3",
+    "inquirer": "^6.2.2",
+    "inquirer-autocomplete-prompt": "^1.0.1",
+    "shelljs": "^0.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "NivO",
+  "license": "MIT"
+}
