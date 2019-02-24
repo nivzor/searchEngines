@@ -1,5 +1,5 @@
 # searchEngines
-Foobar is a small terminal application using python and nodejs to fetch search engines from chrome browser
+searchEngines is a small terminal application using python and nodejs to fetch search engines from chrome browser
 it then lets you quickly search either search engine easily through the terminal.
 
 ## Installation
